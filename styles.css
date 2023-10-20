@@ -1,0 +1,31 @@
+body {
+  max-width: 1300px;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-wrapper {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+a {
+  font-size: 3rem;
+  display: block;
+  text-align: center;
+  color: black;
+}
+
+.content-wrapper div p {
+  font-size: 1rem;
+  color: tomato;
+  text-align: center;
+}
